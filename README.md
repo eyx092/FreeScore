@@ -3,7 +3,7 @@ Basically this program just lets you download the first page of any score on the
 
 ## Installing & Running
 
-1) Download this repository via HTTPS or the Github CLI tool.
+1) Download this repository.
 2) Unzip the files.
 3) Run `install_lib.bat` on Windows, or `install_lib.sh` on MacOS or Linux to install the required libraries for this program.
 4) If you're planning to run the program in the command-line, use this format: `python3 main.py [Score Link]`. If you're going to run the program in the Python shell, the program will instead prompt you for the link.
